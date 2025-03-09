@@ -1,4 +1,3 @@
-```markdown
 # Brainwave - 智能语音交互工具
 
 ![应用界面示例](brainwave-ui.PNG)
@@ -91,10 +90,3 @@ brainwave/
 ├── README.md           # 说明文档
 └── brainwave-ui.PNG    # 界面截图-TODO
 ```
-
-## 授权协议
-
-[MIT License](LICENSE)
-```
-
-> 请将实际截图文件重命名为`brainwave-ui.PNG`并放在项目根目录。如需调整任何功能描述或添加具体使用示例，可根据实际需求修改。
